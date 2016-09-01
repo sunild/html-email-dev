@@ -1,7 +1,7 @@
 {
   "name": "html-email-dev",
   "version": "1.0.0",
-  "description": "Dev environment for generating HTML email templates",
+  "description": "Example dev environment for generating HTML emails with node-email-templates",
   "main": "index.js",
   "scripts": {
     "demo": "node_modules/gulp/bin/gulp.js serve --example",
