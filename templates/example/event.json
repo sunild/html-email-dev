@@ -1,0 +1,29 @@
+{
+  "recipient": "sunil@socialie.com",
+  "template": "prompt",
+  "data": {
+    "headline": "@SHAQ and Kobe Bryant have Published your Suggestion!",
+    "postAt": "12/31/16 at 7am ET / 4am PT",
+    "suggestionUrl": "https://socialie.com/app/suggestions",
+    "firstPost": {
+      "platform": "twitter",
+      "text": "Great to be honored by my @njtv home team in Newark last night. #njtvgala @HillNJTV",
+      "username": "@SHAQ",
+      "displayName": "SHAQ",
+      "avatar": "https://pbs.twimg.com/profile_images/1673907275/image_400x400.jpg",
+      "profileUrl": "https://twitter.com/SHAQ",
+      "attachment": "https://pbs.twimg.com/media/Cg_32mNWkAYYRhx.jpg:large"
+    },
+    "otherPosts": [
+      {
+        "platform": "facebook",
+        "text": "my post is better!",
+        "attachment": "https://scontent.xx.fbcdn.net/t31.0-8/13938247_10154431761840419_2117194969371531592_o.jpg",
+        "username": "Kobe Bryant",
+        "displayName": "Kobe Bryant",
+        "avatar": "https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/431202_10150667673810419_1405873410_n.jpg?oh=51f525f4cc9487f616a6e08240470542&oe=580DF7F3",
+        "profile": "https://www.facebook.com/Kobe/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "html-email-dev",
+  "version": "1.0.0",
+  "description": "Dev environment for generating HTML email templates",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node_modules/gulp/bin/gulp.js serve --example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-templates": "^2.4.1",
+    "handlebars": "^4.0.5",
+    "node-sass": "^3.8.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.14.3",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-util": "^3.0.7"
+  }
+}
